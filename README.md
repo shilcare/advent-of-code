@@ -8,6 +8,9 @@ As an opportunity of learning, practicing, and having fun, I challenge you to ge
 By **end of January 2023**, the one with the most stars wins. If there were multiple people with same amount of stars,
 the first one wins.
 
+You can use the code `2854143-9af4490b` to join the
+[private leaderboard](https://adventofcode.com/2022/leaderboard/private) for this challenge.
+
 Follow the rules below to share your code, or you'll lose the opportunity to win.
 
 If anything is not covered by the rules here, or there is any ambulation in the rules, the judge (me 🙂) decides what
