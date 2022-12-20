@@ -4,6 +4,9 @@
 # IDE
 .idea
 
+# Binary
+*.out
+
 # Python
 venv
 __pycache__/
